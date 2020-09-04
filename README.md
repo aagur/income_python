@@ -16,7 +16,7 @@ It has been compared 6 different classification models:
   * XGBoost Classifier
   
 and have been used GridSearchCV to find the best hyperparameters.
-I've been analyzed different metrics (ex. AUC, accuracy, recall, precision)  to choose model with the best prediction power.
+It has been analyzed different metrics (ex. AUC, accuracy, recall, precision)  to choose model with the best prediction power.
 
 All plots included in the project was generated using libraries: plotly, matplotlib and seaborn.
 
